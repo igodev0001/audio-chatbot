@@ -1,5 +1,5 @@
 # Nima
-This project is a simple chat bot implementation called Nima, which takes user audio input, displays it in text and performs operations. The program makes use of open source speech recognition tools and various libraries/modules available on the PyPI documentation website. Microsoft Speech API (SAPI version 5) used for speech synthesis and communication.
+This project is a simple chat bot implementation, which takes in user audio input, displays it in text and performs operations. The program makes use of open source speech recognition tools and various libraries/modules available on the PyPI documentation website. Microsoft Speech API (SAPI version 5) used for speech synthesis and communication.
 
 Please install all required modules using the pip command before you run the program.
 
